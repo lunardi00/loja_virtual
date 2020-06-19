@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "571185609839",
+    "firebase_url": "https://lojaflutter-1debe.firebaseio.com",
+    "project_id": "lojaflutter-1debe",
+    "storage_bucket": "lojaflutter-1debe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571185609839:android:c68f5be91209297cf7a19a",
+        "android_client_info": {
+          "package_name": "br.com.meupacote.loja_virtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571185609839-de34583ej1u7tbkmou7qpj8pmfi60fts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt9kaSeWUfQG0u9FT2cEAM4eQf-oHrxCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571185609839-de34583ej1u7tbkmou7qpj8pmfi60fts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
